@@ -4,8 +4,15 @@
         <description><![CDATA[RISE]]></description>
         <link>https://thegrid.ai/rise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 23:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 23:44:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rise/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d77e741f-c2fb-4aca-bcd6-dd64b35a24b8.jpg">]]></description>
+            <link>https://thegrid.ai/rise/photo-credit-glorious-morning-via-photopinlicense/index.html</link>
+            <guid isPermaLink="false">dcee6249-3aed-4ced-94de-6a88a744c59e</guid>
+            <pubDate>Sat, 02 Apr 2016 23:44:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What's Going On?]]></title>
             <description><![CDATA[<article><h1>What's Going On?</h1><p>What’s Going On?
@@ -20,13 +27,6 @@ The standard of living for those in the middle- and lower- income brackets is, i
             <link>https://thegrid.ai/rise/photo-credit-petitcodiac-river-sunrise-via-photopinlicense/index.html</link>
             <guid isPermaLink="false">26d25d98-7d1b-491e-869a-35a0fcff3ca7</guid>
             <pubDate>Sat, 02 Apr 2016 23:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d77e741f-c2fb-4aca-bcd6-dd64b35a24b8.jpg">]]></description>
-            <link>https://thegrid.ai/rise/photo-credit-glorious-morning-via-photopinlicense/index.html</link>
-            <guid isPermaLink="false">dcee6249-3aed-4ced-94de-6a88a744c59e</guid>
-            <pubDate>Sat, 02 Apr 2016 23:39:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
