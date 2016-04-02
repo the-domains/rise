@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "What’s Going On?\nThe standard of living for those in the middle- and lower- income brackets is, increasingly, deteriorating. If we don’t band together now, chances are strong that our rights and standard of living will continue to erode.\_"
-datePublished: '2016-04-02T23:41:05.053Z'
-dateModified: '2016-04-02T23:34:04.097Z'
+datePublished: '2016-04-02T23:44:44.148Z'
+dateModified: '2016-04-02T23:41:13.510Z'
 title: "What's Going On?"
 author: []
 sourcePath: _posts/2016-03-31-whats-going-on.md
