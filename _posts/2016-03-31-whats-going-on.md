@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Here’s what’s happening:\_"
-datePublished: '2016-04-03T00:08:47.471Z'
-dateModified: '2016-04-03T00:08:18.610Z'
+datePublished: '2016-04-03T00:11:56.501Z'
+dateModified: '2016-04-03T00:10:36.680Z'
 title: What’s Going On?
 author: []
 sourcePath: _posts/2016-03-31-whats-going-on.md
@@ -35,10 +35,10 @@ Here's what's happening:
 * The wealth gap between middle-income and upper-income families is the widest on record (Source: [Pew Research Center, CNN Money][2]). In 2013, the median wealth of upper-income families ($639,400) was nearly seven times the median wealth of middle-income families ($96,500), the widest wealth gap seen in 30 years when the Federal Reserve began collecting these data (Source: [Pew Research Center][2])
 
 * More than half of U.S. public school students live in low-income households (Source: [Southern Education Foundation][3])
+* The middle- and lower-income classes pay higher local tax rates than the rich (Source: [Institute on Taxation and Economic Policy][4])
+* "In 2015 the poorest fifth of Americans will pay on average 10.9 percent of their income in state and local taxes, the middle fifth will pay 9.4 percent and the top 1 percent will average 5.4 percent." (Source: [The New York Times][5])
+* "In the institute's 'Terrible 10' states, the bottom 20 percent of earners pay up to seven times as much of their income in taxes as the top 1 percenters, the report says. These include Washington, where the poorest residents pay 16.8 percent of their income in taxes while the wealthiest sliver pays just 2.4 percent, followed by Florida, Texas, South Dakota, Illinois, Pennsylvania, Tennessee, Arizona, Kansas and Indiana." (Source: 
 
-* The middle- and lower-income classes pay higher local tax rates than the rich (Source: [Institute on Taxation and Economic Policy][4])  
-"In 2015 the poorest fifth of Americans will pay on average 10.9 percent of their income in state and local taxes, the middle fifth will pay 9.4 percent and the top 1 percent will average 5.4 percent." (Source: [The New York Times][5])  
-"In the institute's "Terrible 10" states, the bottom 20 percent of earners pay up to seven times as much of their income in taxes as the top 1 percenters, the report says. These include Washington, where the poorest residents pay 16.8 percent of their income in taxes while the wealthiest sliver pays just 2.4 percent, followed by Florida, Texas, South Dakota, Illinois, Pennsylvania, Tennessee, Arizona, Kansas and Indiana." (Source: [The New York Times][5])  
 For the past 50 years, the nation's wealthiest few have been able to secure an almost steady decline in their top statutory tax rates. (Source: [Thomas L. Hungerford, "Taxes and the Economy: An Economic Analysis of the Top Tax Rates Since 1945", Washington: Congressional Research Service, 2012][6])
 
 [0]: http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.workingpoorfamilies.org%2Fwp-content%2Fuploads%2F2013%2F01%2FWinter-2012_2013-WPFP-Data-Brief.pdf&t=ZWJhZTk3YTdhZTI4NGEyYTU0YzNhOTZjYzk2NjMwMDI3NjMxYzk3MyxUbU4zdWpESg%3D%3D
