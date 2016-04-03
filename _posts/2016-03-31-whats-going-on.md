@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Here’s what’s happening:\_"
-datePublished: '2016-04-03T00:01:12.601Z'
-dateModified: '2016-04-03T00:01:10.106Z'
+datePublished: '2016-04-03T00:05:20.660Z'
+dateModified: '2016-04-03T00:05:10.220Z'
 title: What’s Going On?
 author: []
 sourcePath: _posts/2016-03-31-whats-going-on.md
@@ -28,17 +28,17 @@ _type: Article
 
 Here's what's happening: 
 
-* According to [Low-Income Working Families: The Growing Economic Gap][0], by the Working Poor Families Project, low-income working families are defined as those earning less than twice the federal poverty line. **In 2011, the low-income threshold for a family of four with two children was $45,622\.**
+* According to [Low-Income Working Families: The Growing Economic Gap][0], by the Working Poor Families Project, low-income working families are defined as those earning less than twice the federal poverty line. **In 2011, the low-income threshold for a family of four with two children was $45,622**
 
-* The middle-income class is shrinking. Between 1989 and 2013, the proportion of all U.S. family wealth owned by the top 3% rose from 44.8% to 54.4%, while the proportion owned by the bottom 90% fell from 33.2% to 24.7% (Source: [Federal Reserve Bulletin, September 2014][1]).
+* The middle-income class is shrinking. Between 1989 and 2013, the proportion of all U.S. family wealth owned by the top 3% rose from 44.8% to 54.4%, while the proportion owned by the bottom 90% fell from 33.2% to 24.7% (Source: [Federal Reserve Bulletin, September 2014][1])
 
-* The wealth gap between middle-income and upper-income families is the widest on record (Source: [Pew Research Center, CNN Money][2]). In 2013, the median wealth of upper-income families ($639,400) was nearly seven times the median wealth of middle-income families ($96,500), the widest wealth gap seen in 30 years when the Federal Reserve began collecting these data (Source: [Pew Research Center][2]).
+* The wealth gap between middle-income and upper-income families is the widest on record (Source: [Pew Research Center, CNN Money][2]). In 2013, the median wealth of upper-income families ($639,400) was nearly seven times the median wealth of middle-income families ($96,500), the widest wealth gap seen in 30 years when the Federal Reserve began collecting these data (Source: [Pew Research Center][2])
 
-* More than half of U.S. public school students live in low-income households (Source: [Southern Education Foundation][3]).
+* More than half of U.S. public school students live in low-income households (Source: [Southern Education Foundation][3])
 
-* The middle- and lower-income classes pay higher local tax rates than the rich (Source: [Institute on Taxation and Economic Policy][4]). 
+* The middle- and lower-income classes pay higher local tax rates than the rich (Source: [Institute on Taxation and Economic Policy][4])
 
-* "In 2015 the poorest fifth of Americans will pay on average 10.9 percent of their income in state and local taxes, the middle fifth will pay 9.4 percent and the top 1 percent will average 5.4 percent." (Source: [The New York Times][5]).
+* "In 2015 the poorest fifth of Americans will pay on average 10.9 percent of their income in state and local taxes, the middle fifth will pay 9.4 percent and the top 1 percent will average 5.4 percent." (Source: [The New York Times][5])
 * "In the institute's "Terrible 10" states, the bottom 20 percent of earners pay up to seven times as much of their income in taxes as the top 1 percenters, the report says. These include Washington, where the poorest residents pay 16.8 percent of their income in taxes while the wealthiest sliver pays just 2.4 percent, followed by Florida, Texas, South Dakota, Illinois, Pennsylvania, Tennessee, Arizona, Kansas and Indiana." (Source: [The New York Times][5])
 * For the past 50 years, the nation's wealthiest few have been able to secure an almost steady decline in their top statutory tax rates. (Source: [Thomas L. Hungerford, "Taxes and the Economy: An Economic Analysis of the Top Tax Rates Since 1945", Washington: Congressional Research Service, 2012][6])
 
