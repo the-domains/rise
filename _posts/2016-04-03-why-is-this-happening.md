@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "In a nutshell, this is happening because those that know how to work the legal system are smart, and wealthier than the rest of us. Consequently, they end up with significant political clout. They further their own interests and work the system to their advantage. These folks are not necessarily out to harm the middle- and lower- classes. Instead, because the middle- and lower-classes are not actively looking out after their own interests by working the system themselves, they are falling behind.\_"
-datePublished: '2016-04-03T20:47:24.494Z'
-dateModified: '2016-04-03T20:47:18.648Z'
+datePublished: '2016-04-03T20:48:50.379Z'
+dateModified: '2016-04-03T20:48:18.149Z'
 title: "Why is this Happening?\_"
 author: []
 sourcePath: _posts/2016-04-03-why-is-this-happening.md
