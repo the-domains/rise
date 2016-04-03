@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Here’s what’s happening:\_"
-datePublished: '2016-04-03T00:26:55.773Z'
-dateModified: '2016-04-03T00:26:44.922Z'
+datePublished: '2016-04-03T00:27:40.358Z'
+dateModified: '2016-04-03T00:27:14.583Z'
 title: "What’s Going On?\_"
 author: []
+sourcePath: _posts/2016-04-03-whats-going-on.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-whats-going-on.md
-published: true
 url: whats-going-on/index.html
 _type: Article
 
