@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-04-04T03:01:10.308Z'
-dateModified: '2016-04-04T03:01:03.809Z'
+description: 'In the US, social justice is imbalanced. We live in an economy that increasingly operates to serve the interests and desires of the wealthy. Politics today awards the wealthy with an unhealthy measure of influence; we can counterbalance this influence with a lobby group of our own.'
+datePublished: '2016-04-12T01:37:02.207Z'
+dateModified: '2016-04-12T01:36:55.104Z'
 title: "How will RISE help?\_"
 author: []
+sourcePath: _posts/2016-04-04-how-will-rise-help.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-how-will-rise-help.md
-published: true
 url: how-will-rise-help/index.html
 _type: Article
 
