@@ -4,7 +4,7 @@
         <description><![CDATA[RISE]]></description>
         <link>https://thegrid.ai/rise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 01:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 01:45:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rise/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rise/669344c9-037d-4c8e-b5f7-ba20c6b6a7a5/index.html</link>
             <guid isPermaLink="false">669344c9-037d-4c8e-b5f7-ba20c6b6a7a5</guid>
             <pubDate>Tue, 12 Apr 2016 01:44:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can YOU get involved?]]></title>
+            <description><![CDATA[<h1>How can YOU get involved?</h1>]]></description>
+            <link>https://thegrid.ai/rise/how-can-you-get-involved/index.html</link>
+            <guid isPermaLink="false">691ec57f-ca76-4fbb-b7dc-c8f141cefb97</guid>
+            <pubDate>Tue, 12 Apr 2016 01:45:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
