@@ -1,4 +1,19 @@
-analytics: {}
+name: RISE
+favicon: null
+layout_spectrum: 0.25557
+typography_spectrum: 0.49369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#201c11'
@@ -8,11 +23,6 @@ color:
     - '#fea527'
   brandStrength: 0.5
   lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
-  saturation: 0.013513
-cta: {}
-layout_spectrum: 0.25557
-name: RISE
-opengraph: {}
 purpose: []
-typography_spectrum: 0.49369
