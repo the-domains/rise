@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "The standard of living for those in the middle- and lower- income brackets is, increasingly, deteriorating. Let's band together."
-datePublished: '2016-04-18T01:21:29.371Z'
-dateModified: '2016-04-18T01:20:57.036Z'
+datePublished: '2016-04-18T01:23:23.237Z'
+dateModified: '2016-04-18T01:22:54.535Z'
 title: "What's going on?"
 author: []
 sourcePath: _posts/2016-04-13-whats-going-on.md
@@ -36,10 +36,13 @@ Here's what's happening:
 
 * More than half of U.S. public school students live in low-income households (Source: [Southern Education Foundation][4]) 
 
-* The middle- and lower-income classes pay higher local tax rates than the rich (Source: [Institute on Taxation and Economic Policy][5])
-"In 2015 the poorest fifth of Americans will pay on average 10.9 percent of their income in state and local taxes, the middle fifth will pay 9.4 percent and the top 1 percent will average 5.4 percent." (Source: The New York Times)
-"In the institute's "Terrible 10" states, the bottom 20 percent of earners pay up to seven times as much of their income in taxes as the top 1 percenters, the report says. These include Washington, where the poorest residents pay 16.8 percent of their income in taxes while the wealthiest sliver pays just 2.4 percent, followed by Florida, Texas, South Dakota, Illinois, Pennsylvania, Tennessee, Arizona, Kansas and Indiana." (Source: The New York Times)
-For the past 50 years, the nation's wealthiest few have been able to secure an almost steady decline in their top statutory tax rates. (Source:Thomas L. Hungerford, "Taxes and the Economy: An Economic Analysis of the Top Tax Rates Since 1945", Washington: Congressional Research Service, 2012)
+* The middle- and lower-income classes pay higher local tax rates than the rich (Source: [Institute on Taxation and Economic Policy][5]) 
+
+* "In 2015 the poorest fifth of Americans will pay on average 10.9 percent of their income in state and local taxes, the middle fifth will pay 9.4 percent and the top 1 percent will average 5.4 percent." (Source: [The New York Times][6]) 
+
+* "In the institute's "Terrible 10" states, the bottom 20 percent of earners pay up to seven times as much of their income in taxes as the top 1 percenters, the report says. These include Washington, where the poorest residents pay 16.8 percent of their income in taxes while the wealthiest sliver pays just 2.4 percent, followed by Florida, Texas, South Dakota, Illinois, Pennsylvania, Tennessee, Arizona, Kansas and Indiana." (Source: [The New York Times][6]) 
+
+* For the past 50 years, the nation's wealthiest few have been able to secure an almost steady decline in their top statutory tax rates. (Source: [Thomas L. Hungerford, "Taxes and the Economy: An Economic Analysis of the Top Tax Rates Since 1945", Washington: Congressional Research Service, 2012][7])
 
 
 [0]: http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.workingpoorfamilies.org%2Fwp-content%2Fuploads%2F2013%2F01%2FWinter-2012_2013-WPFP-Data-Brief.pdf&t=ZWJhZTk3YTdhZTI4NGEyYTU0YzNhOTZjYzk2NjMwMDI3NjMxYzk3MyxUbU4zdWpESg%3D%3D
@@ -48,3 +51,5 @@ For the past 50 years, the nation's wealthiest few have been able to secure an a
 [3]: http://t.umblr.com/redirect?z=http%3A%2F%2Fmoney.cnn.com%2F2014%2F12%2F17%2Fnews%2Feconomy%2Fwealth-gap-middle-class-rich%2F&t=MDQ4YTA1YmZjMTg2ZGY2N2UxMDIwN2M2MDRlOWRlZTFmMjRjNTc1ZSxUbU4zdWpESg%3D%3D
 [4]: http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.southerneducation.org%2FOur-Strategies%2FResearch-and-Publications%2FNew-Majority-Diverse-Majority-Report-Series%2FA-New-Majority-2015-Update-Low-Income-Students-Now&t=MzA4MWQ3YjRlMjI3ZDE3Y2FiYWEwNzliMDMwNjE5MzQ2MzAyNGQ1NixUbU4zdWpESg%3D%3D
 [5]: http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.itep.org%2Fwhopays%2F&t=ZTMwZWQ3NDgyZTUyMzZkOTY1NTdkNzA0Y2UwOTliMjM5MDZhM2YxZCxUbU4zdWpESg%3D%3D
+[6]: http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.nytimes.com%2F2015%2F01%2F14%2Fbusiness%2Flocal-taxes-hit-lower-wage-earners-harder-study-finds.html%3Fsmprod%3Dnytcore-iphone%26smid%3Dnytcore-iphone-share%26_r%3D0&t=YmY1ZjA5ZjQyZjUxMDM4ZGJjYmMyNjg3ZmMxMTY5MWYxMDI2MzFjOSxUbU4zdWpESg%3D%3D
+[7]: http://t.umblr.com/redirect?z=http%3A%2F%2Fonline.wsj.com%2Fpublic%2Fresources%2Fdocuments%2Fr42729_0917.pdf&t=NWY0YjJjNGEyMDhiNDJkMTYwZGMwNDEwYzJkY2ViMTkxYjM0Zjc2NCxUbU4zdWpESg%3D%3D
