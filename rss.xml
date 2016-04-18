@@ -4,7 +4,7 @@
         <description><![CDATA[RISE]]></description>
         <link>https://thegrid.ai/rise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 02:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 01:06:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rise/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -37,13 +37,6 @@
             <pubDate>Fri, 15 Apr 2016 02:09:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839c4418-b847-4962-9a37-24470b5c4941.jpg">]]></description>
-            <link>https://thegrid.ai/rise/photo-credit-sunrise-via-photopinlicense/index.html</link>
-            <guid isPermaLink="false">f7f989bc-6510-4dc2-a5cc-e7b98a43d2cf</guid>
-            <pubDate>Wed, 13 Apr 2016 01:48:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What's going on?]]></title>
             <description><![CDATA[<h1>What's going on?</h1>]]></description>
             <link>https://thegrid.ai/rise/whats-going-on/index.html</link>
@@ -56,6 +49,13 @@
             <link>https://thegrid.ai/rise/669344c9-037d-4c8e-b5f7-ba20c6b6a7a5/index.html</link>
             <guid isPermaLink="false">669344c9-037d-4c8e-b5f7-ba20c6b6a7a5</guid>
             <pubDate>Tue, 12 Apr 2016 01:44:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839c4418-b847-4962-9a37-24470b5c4941.jpg">]]></description>
+            <link>https://thegrid.ai/rise/photo-credit-sunrise-via-photopinlicense/index.html</link>
+            <guid isPermaLink="false">f7f989bc-6510-4dc2-a5cc-e7b98a43d2cf</guid>
+            <pubDate>Mon, 18 Apr 2016 01:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
