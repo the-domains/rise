@@ -4,8 +4,15 @@
         <description><![CDATA[RISE]]></description>
         <link>https://thegrid.ai/rise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 01:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 01:15:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rise/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's going on?]]></title>
+            <description><![CDATA[<article><h1>What's going on?</h1><p>The standard of living for those in the middle- and lower- income brackets is, increasingly, deteriorating. If we don’t band together now, chances are strong that our rights and standard of living will continue to erode.</p></article>]]></description>
+            <link>https://thegrid.ai/rise/whats-going-on/index.html</link>
+            <guid isPermaLink="false">99561902-fc30-46e9-b4cf-30a242713380</guid>
+            <pubDate>Mon, 18 Apr 2016 01:15:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2890b0f-27de-48c9-b6cd-25229d6dcde9.jpg">]]></description>
@@ -35,13 +42,6 @@
             <link>https://thegrid.ai/rise/why-is-this-happening/index.html</link>
             <guid isPermaLink="false">8b58560e-723a-42c5-85d7-0c8292e06420</guid>
             <pubDate>Fri, 15 Apr 2016 02:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's going on?]]></title>
-            <description><![CDATA[<h1>What's going on?</h1>]]></description>
-            <link>https://thegrid.ai/rise/whats-going-on/index.html</link>
-            <guid isPermaLink="false">99561902-fc30-46e9-b4cf-30a242713380</guid>
-            <pubDate>Wed, 13 Apr 2016 01:36:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
