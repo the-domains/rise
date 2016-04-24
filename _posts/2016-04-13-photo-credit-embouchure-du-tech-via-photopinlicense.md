@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'photo credit: Embouchure du Tech. via photopin (license)'
-datePublished: '2016-04-24T00:16:37.804Z'
-dateModified: '2016-04-24T00:15:31.075Z'
+datePublished: '2016-04-24T00:22:15.722Z'
+dateModified: '2016-04-24T00:21:24.195Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-photo-credit-embouchure-du-tech-via-photopinlicense.md
