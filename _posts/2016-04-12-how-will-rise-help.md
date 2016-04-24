@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'In the US, social justice is imbalanced. We live in an economy that increasingly operates to serve the interests and desires of the wealthy. Politics today awards the wealthy with an unhealthy measure of influence; we can counterbalance this influence with a lobby group of our own. The team behind RISE is dissatisfied with existing approaches and we aim to make changes in public policy that also take the rights and needs of the middle- and lower-classes into account. '
-datePublished: '2016-04-24T00:23:21.808Z'
-dateModified: '2016-04-24T00:23:13.093Z'
+datePublished: '2016-04-24T00:25:37.494Z'
+dateModified: '2016-04-24T00:25:29.922Z'
 title: 'How will RISE help? '
 author: []
 sourcePath: _posts/2016-04-12-how-will-rise-help.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: how-will-rise-help/index.html
 _type: Article
 
