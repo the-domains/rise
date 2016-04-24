@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'photo credit: Sunrise via photopin(license)'
-datePublished: '2016-04-18T01:06:00.014Z'
-dateModified: '2016-04-18T01:05:43.671Z'
+description: 'photo credit: Sunrise via photopin (license)'
+datePublished: '2016-04-24T00:25:00.782Z'
+dateModified: '2016-04-24T00:24:52.255Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-12-photo-credit-sunrise-via-photopinlicense.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-photo-credit-sunrise-via-photopinlicense.md
-published: true
+starred: false
 url: photo-credit-sunrise-via-photopinlicense/index.html
 _type: Article
 
