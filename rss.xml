@@ -4,7 +4,7 @@
         <description><![CDATA[RISE]]></description>
         <link>https://thegrid.ai/rise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 00:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 00:25:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rise/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How will RISE help? ]]></title>
@@ -50,17 +50,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839c4418-b847-4962-9a37-24470b5c4941.jpg">]]></description>
+            <link>https://thegrid.ai/rise/photo-credit-sunrise-via-photopinlicense/index.html</link>
+            <guid isPermaLink="false">f7f989bc-6510-4dc2-a5cc-e7b98a43d2cf</guid>
+            <pubDate>Sun, 24 Apr 2016 00:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b45b7dfc-2b4e-4071-86a6-e1d696b5df2e.jpg">]]></description>
             <link>https://thegrid.ai/rise/photo-credit-embouchure-du-tech-via-photopinlicense/index.html</link>
             <guid isPermaLink="false">4ba755d8-ef44-4c9d-91df-a4835dfadf2e</guid>
             <pubDate>Sun, 24 Apr 2016 00:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839c4418-b847-4962-9a37-24470b5c4941.jpg">]]></description>
-            <link>https://thegrid.ai/rise/photo-credit-sunrise-via-photopinlicense/index.html</link>
-            <guid isPermaLink="false">f7f989bc-6510-4dc2-a5cc-e7b98a43d2cf</guid>
-            <pubDate>Mon, 18 Apr 2016 01:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
